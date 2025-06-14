@@ -92,6 +92,7 @@ def sigmoid_4pl(x, top, bottom, ic50, hill_slope):
 ```
 
 #### 4. Optimal Doz Belirleme
+
 - *Target viability:* %20 (= %80 hücre ölümü)
 - *Bootstrap sampling:* 1000 iterasyon
 - *Confidence interval:* %95 güven aralığı
